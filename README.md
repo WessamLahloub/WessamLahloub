@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WessamLahloub
+- 👋 Hi, I’m Wessam S. Lahloub
 - 👀 I’m interested in VR and games programming 
 - 🌱 I’m currently learning python and machine learning algorithm 
 - 📫 You can reach me via my Gmail : wessam.lahloub1@gmail.com, or my personal number 00962782379185
