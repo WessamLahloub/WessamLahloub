@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Wessam S. Lahloub<br>👀 I’m interested in establishing a powerful relationship between QA and AI for better Testing practices <be> 
+👋 Hi, I’m Wessam S. Lahloub<br>👀 I’m interested in establishing a powerful relationship between QA and AI for better Testing practices<be> 
 💪 I’m always empowering myself in Automation Quality assurance strategies & API Tricks to help in testing<be>
-📫 You can reach me via my Gmail: wessam.lahloub1@gmail.com<be> or my personal number +962782379185<br>💻 Let's connect and work together!, You can reach me via my LinkedIn account https://www.linkedin.com/in/wessam-lahloub-9b437a216/
+📫 You can reach me via my Gmail: wessam.lahloub1@gmail.com<be> or my personal number +962782379185<br>💻 Let's connect and work together!, You can reach me via my LinkedIn account https://www.linkedin.com/in/wessam-lahloub-9b437a216/<be>
 
 
 ## 🌐 Socials:
