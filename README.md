@@ -8,6 +8,7 @@ Quality Assurance Specialist
 * ✉️  You can contact me at [wessam.lahloub1@gmail.com](mailto:wessam.lahloub1@gmail.com)
 * 🧠  I'm learning API Automation
 * ⚡  Join me in the thrill of overcoming challenges, as we push each other to new heights.
+* 🚀  I excel at swiftly mastering skills, taking a shorter time to become proficient in new areas.
 
 <a href="https://www.github.com/WessamLahloub" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/WessamLahloub?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
