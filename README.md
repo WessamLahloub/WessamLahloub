@@ -8,7 +8,8 @@ Quality Assurance Specialist
 * ✉️  You can contact me at [wessam.lahloub1@gmail.com](mailto:wessam.lahloub1@gmail.com)
 * 🧠  I'm learning API Automation
 * ⚡  Join me in the thrill of overcoming challenges, as we push each other to new heights.
-* 🚀  I excel at swiftly mastering skills, taking a shorter time to become proficient in new areas.
+🚀 I excel at swiftly mastering skills, taking a shorter time to become proficient in new areas.
+
 
 <a href="https://www.github.com/WessamLahloub" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/WessamLahloub?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -33,4 +34,4 @@ src="https://img.shields.io/github/followers/WessamLahloub?logo=github&style=for
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/WessamLahloub/STLC_Documents_Practice" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WessamLahloub&repo=STLC_Documents_Practice&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/WessamLahloub/STLC_Documents_Practice" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WessamLahloub&repo=STLC_Documents_Practice&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/WessamLahloub/Rotation-Major-Feature-Documents" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WessamLahloub&repo=Rotation-Major-Feature-Documents&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
